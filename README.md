@@ -3,22 +3,20 @@
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Wawasan dan Aplikasi Teknologi.
 
 ## Deskripsi
-Proyek ini berisi materi, catatan, dan tugas terkait dengan pembahasan teknologi terkini serta penerapannya dalam berbagai bidang.
+Proyek ini berisi materi, catatan, dan tugas terkait dengan pembahasan Teknologi ai di dunia kesehatan: kajian manfaat, resiko dan implikasi etis
 
 ## Tujuan
-- Memahami konsep dasar teknologi informasi
-- Mengidentifikasi aplikasi teknologi di dunia nyata
-- Meningkatkan wawasan terhadap perkembangan teknologi terbaru
-
+-  Menjelaskan peran teknologi dalam sektor kesehatan.
+- Menganalisis manfaat dan tantangan penggunaan teknologi medis.
+- Memberikan contoh penerapan nyata teknologi di rumah sakit, klinik, atau layanan kesehatan digital.
+- 
 ## Struktur Repositori
-- `materi/` : Berisi materi pertemuan kelas
-- `tugas/` : Berisi file tugas yang dikerjakan
-- `referensi/` : Berisi tautan dan dokumen referensi
-
-## Cara Menjalankan (jika ada)
-Tidak diperlukan instalasi khusus. Cukup buka file-file yang tersedia sesuai kebutuhan tugas.
+- `mmateri/` : Materi dan ringkasan teori
+- `contoh-kasus/` : Studi kasus dan penerapan teknologi
+- `tugas/` : File tugas individu
+- `referensi/` : Artikel, jurnal, atau tautan referensi
 
 ## Kontributor
-- Nama: [Nama Kamu]
-- NIM: [Nomor Induk Mahasiswa]
+- Nama: [Siti Nurhasanah]
+- MK : Wawasan dan aplikasi eknologi
 
